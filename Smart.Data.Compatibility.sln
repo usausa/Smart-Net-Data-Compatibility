@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Smart.Data.Compatibility", "Smart.Data.Compatibility\Smart.Data.Compatibility.csproj", "{BF7C584C-3457-46C7-A5D6-8B01D2D32E8C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6F03369B-2DF5-425A-B8D2-A82E798386C7}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+		Directory.Build.props = Directory.Build.props
+		Directory.Build.targets = Directory.Build.targets
+		LICENSE = LICENSE
+		README.md = README.md
+		Smart.Data.Compatibility.ruleset = Smart.Data.Compatibility.ruleset
+		Smart.Data.Compatibility.sln.DotSettings = Smart.Data.Compatibility.sln.DotSettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF7C584C-3457-46C7-A5D6-8B01D2D32E8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF7C584C-3457-46C7-A5D6-8B01D2D32E8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF7C584C-3457-46C7-A5D6-8B01D2D32E8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF7C584C-3457-46C7-A5D6-8B01D2D32E8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F4A1F80-FB7C-4C6F-B27E-50C8F7C96F65}
+	EndGlobalSection
+EndGlobal
