@@ -15,7 +15,7 @@
 
   <ItemGroup>
     <PackageReference Include="Usa.Smart.Data.Accessor.Core" Version="2.10.1" />
-    <PackageReference Include="Usa.Smart.Data.Mapper" Version="2.7.1" />
+    <PackageReference Include="Usa.Smart.Data.Mapper" Version="2.8.0" />
   </ItemGroup>
 
 </Project>
